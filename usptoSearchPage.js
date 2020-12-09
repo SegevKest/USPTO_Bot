@@ -9,7 +9,7 @@ function searchByCustomerNumber(){
                 // Initizlize all Variables
                 
                 //this variables will come from kryon as parameteres
-                let currentCustomerNumber = 67801,
+                let currentCustomerNumber = XXXXX,
                     selectCustomerOptionIndex = 2;
 
 
